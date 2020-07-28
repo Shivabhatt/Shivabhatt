@@ -10,7 +10,7 @@
 
 <p align = "center"><b>You can find me here</b></p>
 <p align = "center"><a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a></p>  
-<p align = "center"><a href="https://www.linkedin.com/in/shivabhatt2020/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://medium.com/@shivabhatt37"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  <a href="https://www.kaggle.com/shivabhatt"><img src="https://github.com/sanchitvj/sanchitvj/blob/master/kaggle%20icon.png" width="34px" height="34px"></a>  <a href="https://twitter.com/ShivaBhatt9"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
+<p align = "center"><a href="https://www.linkedin.com/in/shivabhatt2020/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>  <a href="https://www.instagram.com/sbhatt06/"><img src="<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg " width="32px" height="32px"></a>  <a href="https://www.kaggle.com/shivabhatt"><img src="https://github.com/Shivabhatt/Shhivabhatt/blob/master/kaggle%20icon.png" width="34px" height="34px"></a>  <a href="https://twitter.com/ShivaBhatt9"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="32px" height="32px"></a></p>  
   
 
 **Visitors Count**  
