@@ -1,7 +1,7 @@
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on Deep Learning.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 Currently working on a cloud native microservices.
+- 🌱 Good knowledge of Machine learning.
 - 👯 I’m looking to collaborate on Kaggle Projects.
 - 💬 Ask me about Deep learning and Machine learning.
 - 📫 How to reach me:www.linkedin.com/in/shivabhatt2020 
