@@ -1,6 +1,5 @@
 **Here are some ideas to get you started:**
 
-- 🔭 Currently working on a cloud native microservices.
 - 🌱 Good knowledge of Machine learning.
 - 👯 I’m looking to collaborate on Kaggle Projects.
 - 💬 Ask me about Deep learning and Machine learning.
