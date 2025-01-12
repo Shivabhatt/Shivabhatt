@@ -1,6 +1,6 @@
 **Here are some ideas to get you started:**
 
--  UI / Frontend / Angular Developer with around 3 years of professional work experience in the design and development of software single-page applications primarily in 
+-  Frontend Developer with around 3 years of professional work experience in the design and development of software single-page applications primarily in 
     Typescript + (Angular 16), JavaScript, HTML and SCSS.
 -  Successfully developed front-end applications and executed various critical projects with crunch deadlines and pressures.
 -  Worked on multiple projects Ui and delivered as per requirements and UX specifications to meet a great user experience.
