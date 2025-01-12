@@ -1,10 +1,10 @@
 **Here are some ideas to get you started:**
 
-- 🌱 Good knowledge of Machine learning.
-- 👯 I’m looking to collaborate on Kaggle Projects.
-- 💬 Ask me about Deep learning and Machine learning.
+-  UI / Frontend / Angular Developer with around 3 years of professional work experience in the design and development of software single-page applications primarily in 
+    Typescript + (Angular 16), JavaScript, HTML and SCSS.
+-  Successfully developed front-end applications and executed various critical projects with crunch deadlines and pressures.
+-  Worked on multiple projects Ui and delivered as per requirements and UX specifications to meet a great user experience.
 - 📫 How to reach me:www.linkedin.com/in/shivabhatt2020 
-- 😄 Pronouns:Shiva😄 
 - ⚡ Beginners Mindset and Curisity
 
 ![](https://github-readme-stats.vercel.app/api?username=Shivabhatt&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
